@@ -1,0 +1,235 @@
+﻿id_venda;data;vendedor;regiao;produto;quantidade;preco_unitario;valor;mes
+V0032;2025-01-02;Carla Mendes;Nordeste;Calculadora Científica;1;89.9;89.9;1
+V0166;2025-01-02;Elisa Prado;Nordeste;Agenda 2025;1;45.0;45.0;1
+V0192;2025-01-02;Carla Mendes;Sul;Estojo Duplo;1;28.9;28.9;1
+V0018;2025-01-03;Ana Souza;Sudeste;Calculadora Científica;4;94.4;377.6;1
+V0142;2025-01-03;Carla Mendes;Nordeste;Mochila Escolar;3;129.9;389.70000000000005;1
+V0182;2025-01-03;Elisa Prado;Nordeste;Pasta Arquivo;2;13.12;26.24;1
+V0137;2025-01-04;Elisa Prado;Nordeste;Pasta Arquivo;5;12.5;62.5;1
+V0051;2025-01-06;Bruno Lima;Sul;Estojo Duplo;20;28.9;578.0;1
+V0152;2025-01-07;Ana Souza;Sudeste;Marcador de Texto;12;7.9;94.80000000000001;1
+V0168;2025-01-07;Ana Souza;Sudeste;Calculadora Científica;2;89.9;179.8;1
+V0119;2025-01-09;Diego Rocha;Sudeste;Agenda 2025;3;45.0;135.0;1
+V0187;2025-01-10;Ana Souza;Sul;Caderno 10 matérias;2;29.25;58.5;1
+V0232;2025-01-10;Ana Souza;Sudeste;Pasta Arquivo;2;12.5;25.0;1
+V0121;2025-01-13;Bruno Lima;Sul;Calculadora Científica;2;89.9;179.8;1
+V0173;2025-01-13;Ana Souza;Nordeste;Caneta Gel;8;4.9;39.2;1
+V0004;2025-01-14;Felipe Nunes;Sul;Caneta Gel;20;4.9;98.0;1
+V0165;2025-01-14;Bruno Lima;Sul;Estojo Duplo;3;30.34;91.02;1
+V0189;2025-01-14;Elisa Prado;Nordeste;Calculadora Científica;2;94.4;188.8;1
+V0191;2025-01-14;Carla Mendes;Nordeste;Agenda 2025;1;47.25;47.25;1
+V0002;2025-01-16;Felipe Nunes;Nordeste;Agenda 2025;1;45.0;45.0;1
+V0112;2025-01-16;Felipe Nunes;Sul;Mochila Escolar;3;129.9;389.70000000000005;1
+V0120;2025-01-17;Bruno Lima;Sul;Caderno 10 matérias;4;32.5;130.0;1
+V0055;2025-01-20;Bruno Lima;Sul;Caneta Gel;1;4.9;4.9;1
+V0063;2025-01-20;Diego Rocha;Sudeste;Estojo Duplo;8;28.9;231.2;1
+V0075;2025-01-21;Elisa Prado;Nordeste;Agenda 2025;1;45.0;45.0;1
+V0081;2025-01-21;Elisa Prado;Nordeste;Marcador de Texto;3;7.11;21.330000000000002;1
+V0087;2025-01-21;Bruno Lima;Sul;Pasta Arquivo;3;12.5;37.5;1
+V0230;2025-01-21;Ana Souza;Sudeste;Calculadora Científica;1;89.9;89.9;1
+V0108;2025-01-22;Bruno Lima;Sul;Pasta Arquivo;5;12.5;62.5;1
+V0116;2025-01-22;Bruno Lima;Sul;Calculadora Científica;3;89.9;269.70000000000005;1
+V0195;2025-01-22;Carla Mendes;Nordeste;Caderno 10 matérias;2;32.5;65.0;1
+V0067;2025-01-23;Carla Mendes;Nordeste;Agenda 2025;1;47.25;47.25;1
+V0069;2025-01-23;Carla Mendes;Nordeste;Mochila Escolar;4;116.91;467.64;1
+V0155;2025-01-23;Felipe Nunes;Sul;Calculadora Científica;4;89.9;359.6;1
+V0221;2025-01-23;Diego Rocha;Sul;Calculadora Científica;1;89.9;89.9;1
+V0144;2025-01-24;Carla Mendes;Nordeste;Calculadora Científica;4;89.9;359.6;1
+V0196;2025-01-24;Carla Mendes;Nordeste;Caneta Gel;5;4.9;24.5;1
+V0095;2025-01-25;Ana Souza;Sudeste;Caderno 10 matérias;2;32.5;65.0;1
+V0043;2025-01-27;Carla Mendes;Nordeste;Caneta Gel;1;4.41;4.41;1
+V0079;2025-01-27;Diego Rocha;Sudeste;Marcador de Texto;3;8.29;24.869999999999997;1
+V0020;2025-01-28;Carla Mendes;Nordeste;Pasta Arquivo;1;12.5;12.5;1
+V0037;2025-01-28;Carla Mendes;Nordeste;Mochila Escolar;3;129.9;389.70000000000005;1
+V0163;2025-01-28;Bruno Lima;Sul;Pasta Arquivo;5;12.5;62.5;1
+V0211;2025-01-29;Ana Souza;Sudeste;Agenda 2025;1;45.0;45.0;1
+V0104;2025-01-30;Ana Souza;Sudeste;Estojo Duplo;20;30.34;606.8;1
+V0114;2025-01-30;Felipe Nunes;Sul;Mochila Escolar;2;129.9;259.8;1
+V0157;2025-01-30;Ana Souza;Sudeste;Marcador de Texto;3;7.9;23.700000000000003;1
+V0162;2025-01-31;Elisa Prado;Nordeste;Caneta Gel;5;4.41;22.05;1
+V0005;2025-02-01;Carla Mendes;Nordeste;Mochila Escolar;1;136.4;136.4;2
+V0080;2025-02-01;Felipe Nunes;Sudeste;Agenda 2025;2;45.0;90.0;2
+V0086;2025-02-01;Felipe Nunes;Sudeste;Agenda 2025;1;45.0;45.0;2
+V0236;2025-02-03;Carla Mendes;Nordeste;Caderno 10 matérias;1;29.25;29.25;2
+V0039;2025-02-04;Ana Souza;Sudeste;Calculadora Científica;3;94.4;283.20000000000005;2
+V0170;2025-02-05;Ana Souza;Sudeste;Agenda 2025;1;40.5;40.5;2
+V0016;2025-02-06;Elisa Prado;Nordeste;Estojo Duplo;8;28.9;231.2;2
+V0071;2025-02-06;Felipe Nunes;Sul;Caneta Gel;2;4.9;9.8;2
+V0227;2025-02-06;Carla Mendes;Nordeste;Caneta Gel;12;4.41;52.92;2
+V0068;2025-02-07;Carla Mendes;Nordeste;Caneta Gel;8;4.9;39.2;2
+V0085;2025-02-07;Carla Mendes;Sudeste;Pasta Arquivo;5;12.5;62.5;2
+V0113;2025-02-07;Carla Mendes;Nordeste;Caneta Gel;2;4.41;8.82;2
+V0136;2025-02-07;Ana Souza;Sudeste;Estojo Duplo;1;30.34;30.34;2
+V0164;2025-02-08;Bruno Lima;Sul;Caderno 10 matérias;3;32.5;97.5;2
+V0047;2025-02-10;Felipe Nunes;Sul;Calculadora Científica;1;89.9;89.9;2
+V0139;2025-02-10;Diego Rocha;Sudeste;Caderno 10 matérias;1;29.25;29.25;2
+V0021;2025-02-12;Ana Souza;Sudeste;Caneta Gel;1;4.9;4.9;2
+V0161;2025-02-12;Diego Rocha;Sudeste;Estojo Duplo;5;26.01;130.05;2
+V0225;2025-02-13;Diego Rocha;Sudeste;Caderno 10 matérias;4;32.5;130.0;2
+V0180;2025-02-14;Bruno Lima;Sul;Agenda 2025;1;45.0;45.0;2
+V0240;2025-02-15;Ana Souza;Sudeste;Mochila Escolar;1;116.91;116.91;2
+V0041;2025-02-17;Diego Rocha;Sudeste;Mochila Escolar;1;129.9;129.9;2
+V0053;2025-02-17;Bruno Lima;Sul;Mochila Escolar;3;129.9;389.70000000000005;2
+V0193;2025-02-18;Felipe Nunes;Sul;Calculadora Científica;4;89.9;359.6;2
+V0224;2025-02-18;Elisa Prado;Nordeste;Calculadora Científica;1;89.9;89.9;2
+V0062;2025-02-21;Elisa Prado;Nordeste;Mochila Escolar;3;129.9;389.70000000000005;2
+V0077;2025-02-21;Ana Souza;Sudeste;Mochila Escolar;2;129.9;259.8;2
+V0146;2025-02-21;Bruno Lima;Sul;Caneta Gel;12;4.9;58.800000000000004;2
+V0033;2025-02-22;Carla Mendes;Nordeste;Mochila Escolar;3;129.9;389.70000000000005;2
+V0096;2025-02-22;Elisa Prado;Nordeste;Pasta Arquivo;8;11.25;90.0;2
+V0186;2025-02-22;Elisa Prado;Nordeste;Caderno 10 matérias;3;32.5;97.5;2
+V0082;2025-02-24;Ana Souza;Sudeste;Caderno 10 matérias;1;34.12;34.12;2
+V0160;2025-02-24;Diego Rocha;Sudeste;Agenda 2025;2;45.0;90.0;2
+V0223;2025-02-24;Felipe Nunes;Sul;Estojo Duplo;3;30.34;91.02;2
+V0194;2025-02-25;Felipe Nunes;Sul;Agenda 2025;3;45.0;135.0;2
+V0048;2025-02-27;Elisa Prado;Nordeste;Caderno 10 matérias;3;29.25;87.75;2
+V0158;2025-02-27;Ana Souza;Sudeste;Calculadora Científica;4;89.9;359.6;2
+V0049;2025-02-28;Ana Souza;Sudeste;Pasta Arquivo;20;11.25;225.0;2
+V0177;2025-02-28;Felipe Nunes;Sul;Estojo Duplo;2;28.9;57.8;2
+V0052;2025-03-01;Felipe Nunes;Sul;Caderno 10 matérias;1;32.5;32.5;3
+V0207;2025-03-01;Diego Rocha;Sudeste;Agenda 2025;1;45.0;45.0;3
+V0219;2025-03-01;Bruno Lima;Sul;Pasta Arquivo;3;11.25;33.75;3
+V0008;2025-03-05;Ana Souza;Sudeste;Estojo Duplo;20;26.01;520.2;3
+V0066;2025-03-05;Ana Souza;Sudeste;Estojo Duplo;2;28.9;57.8;3
+V0106;2025-03-05;Carla Mendes;Nordeste;Agenda 2025;4;45.0;180.0;3
+V0045;2025-03-06;Diego Rocha;Sudeste;Estojo Duplo;20;28.9;578.0;3
+V0228;2025-03-06;Carla Mendes;Nordeste;Caneta Gel;2;4.9;9.8;3
+V0038;2025-03-07;Ana Souza;Sudeste;Agenda 2025;4;45.0;180.0;3
+V0209;2025-03-07;Elisa Prado;Nordeste;Marcador de Texto;12;7.9;94.80000000000001;3
+V0092;2025-03-08;Elisa Prado;Nordeste;Estojo Duplo;8;28.9;231.2;3
+V0130;2025-03-08;Elisa Prado;Nordeste;Agenda 2025;3;45.0;135.0;3
+V0025;2025-03-10;Carla Mendes;Nordeste;Mochila Escolar;4;129.9;519.6;3
+V0056;2025-03-10;Elisa Prado;Nordeste;Marcador de Texto;1;7.9;7.9;3
+V0057;2025-03-11;Diego Rocha;Sudeste;Caneta Gel;20;4.9;98.0;3
+V0065;2025-03-11;Carla Mendes;Nordeste;Estojo Duplo;5;28.9;144.5;3
+V0097;2025-03-12;Bruno Lima;Sul;Caneta Gel;12;4.9;58.800000000000004;3
+V0159;2025-03-13;Felipe Nunes;Sul;Marcador de Texto;2;7.9;15.8;3
+V0220;2025-03-14;Bruno Lima;Sul;Estojo Duplo;5;26.01;130.05;3
+V0131;2025-03-15;Elisa Prado;Nordeste;Agenda 2025;2;45.0;90.0;3
+V0140;2025-03-15;Diego Rocha;Sudeste;Pasta Arquivo;1;12.5;12.5;3
+V0234;2025-03-17;Bruno Lima;Sul;Marcador de Texto;8;7.9;63.2;3
+V0111;2025-03-18;Ana Souza;Sudeste;Marcador de Texto;2;7.9;15.8;3
+V0188;2025-03-18;Bruno Lima;Sul;Pasta Arquivo;3;12.5;37.5;3
+V0151;2025-03-21;Carla Mendes;Nordeste;Pasta Arquivo;8;12.5;100.0;3
+V0050;2025-03-24;Ana Souza;Sudeste;Calculadora Científica;1;89.9;89.9;3
+V0001;2025-03-25;Felipe Nunes;Sul;Pasta Arquivo;1;12.5;12.5;3
+V0202;2025-03-26;Felipe Nunes;Sul;Estojo Duplo;1;28.9;28.9;3
+V0222;2025-03-26;Elisa Prado;Nordeste;Mochila Escolar;4;129.9;519.6;3
+V0028;2025-03-27;Diego Rocha;Sudeste;Agenda 2025;1;40.5;40.5;3
+V0231;2025-03-27;Elisa Prado;Nordeste;Caderno 10 matérias;4;29.25;117.0;3
+V0023;2025-03-31;Diego Rocha;Sudeste;Marcador de Texto;1;7.9;7.9;3
+V0235;2025-03-31;Felipe Nunes;Sul;Marcador de Texto;1;7.9;7.9;3
+V0036;2025-04-01;Ana Souza;Sudeste;Mochila Escolar;1;129.9;129.9;4
+V0172;2025-04-01;Diego Rocha;Sudeste;Marcador de Texto;20;7.11;142.20000000000002;4
+V0149;2025-04-03;Ana Souza;Sudeste;Agenda 2025;1;45.0;45.0;4
+V0214;2025-04-03;Diego Rocha;Sudeste;Estojo Duplo;3;26.01;78.03;4
+V0026;2025-04-04;Ana Souza;Sudeste;Caneta Gel;20;4.9;98.0;4
+V0072;2025-04-04;Felipe Nunes;Sul;Pasta Arquivo;12;13.12;157.44;4
+V0022;2025-04-05;Diego Rocha;Sudeste;Caderno 10 matérias;1;34.12;34.12;4
+V0143;2025-04-05;Carla Mendes;Nordeste;Mochila Escolar;1;129.9;129.9;4
+V0154;2025-04-05;Ana Souza;Nordeste;Marcador de Texto;20;8.29;165.79999999999998;4
+V0089;2025-04-07;Elisa Prado;Nordeste;Pasta Arquivo;1;11.25;11.25;4
+V0118;2025-04-07;Carla Mendes;Nordeste;Marcador de Texto;2;7.9;15.8;4
+V0156;2025-04-08;Diego Rocha;Sudeste;Mochila Escolar;1;129.9;129.9;4
+V0064;2025-04-09;Elisa Prado;Nordeste;Estojo Duplo;2;28.9;57.8;4
+V0117;2025-04-09;Bruno Lima;Sul;Estojo Duplo;8;28.9;231.2;4
+V0203;2025-04-10;Ana Souza;Sudeste;Mochila Escolar;2;129.9;259.8;4
+V0147;2025-04-11;Ana Souza;Sudeste;Mochila Escolar;1;136.4;136.4;4
+V0181;2025-04-11;Bruno Lima;Sul;Agenda 2025;3;47.25;141.75;4
+V0015;2025-04-12;Felipe Nunes;Sul;Marcador de Texto;1;7.9;7.9;4
+V0046;2025-04-12;Carla Mendes;Nordeste;Caderno 10 matérias;1;29.25;29.25;4
+V0093;2025-04-12;Ana Souza;Sudeste;Mochila Escolar;1;129.9;129.9;4
+V0183;2025-04-12;Diego Rocha;Nordeste;Caderno 10 matérias;4;32.5;130.0;4
+V0216;2025-04-14;Felipe Nunes;Sul;Agenda 2025;3;40.5;121.5;4
+V0206;2025-04-15;Ana Souza;Sudeste;Agenda 2025;3;47.25;141.75;4
+V0126;2025-04-16;Ana Souza;Sudeste;Caneta Gel;12;5.15;61.800000000000004;4
+V0169;2025-04-17;Carla Mendes;Nordeste;Mochila Escolar;1;129.9;129.9;4
+V0218;2025-04-17;Carla Mendes;Nordeste;Estojo Duplo;20;28.9;578.0;4
+V0141;2025-04-18;Carla Mendes;Nordeste;Calculadora Científica;1;80.91;80.91;4
+V0109;2025-04-19;Bruno Lima;Sul;Pasta Arquivo;2;12.5;25.0;4
+V0215;2025-04-19;Diego Rocha;Sudeste;Calculadora Científica;4;89.9;359.6;4
+V0127;2025-04-21;Elisa Prado;Sudeste;Caderno 10 matérias;2;34.12;68.24;4
+V0061;2025-04-22;Diego Rocha;Sudeste;Pasta Arquivo;20;12.5;250.0;4
+V0013;2025-04-26;Bruno Lima;Sul;Pasta Arquivo;5;12.5;62.5;4
+V0128;2025-04-26;Ana Souza;Sudeste;Mochila Escolar;3;116.91;350.73;4
+V0133;2025-04-26;Felipe Nunes;Sul;Caneta Gel;3;4.9;14.700000000000001;4
+V0125;2025-04-29;Bruno Lima;Sul;Caderno 10 matérias;4;32.5;130.0;4
+V0153;2025-04-29;Elisa Prado;Nordeste;Marcador de Texto;8;7.9;63.2;4
+V0034;2025-04-30;Carla Mendes;Sul;Caderno 10 matérias;1;32.5;32.5;4
+V0007;2025-05-01;Carla Mendes;Nordeste;Marcador de Texto;5;7.9;39.5;5
+V0024;2025-05-01;Carla Mendes;Nordeste;Estojo Duplo;1;28.9;28.9;5
+V0035;2025-05-01;Elisa Prado;Nordeste;Mochila Escolar;4;136.4;545.6;5
+V0115;2025-05-01;Ana Souza;Sudeste;Pasta Arquivo;5;12.5;62.5;5
+V0123;2025-05-01;Felipe Nunes;Sul;Pasta Arquivo;3;11.25;33.75;5
+V0031;2025-05-02;Ana Souza;Sudeste;Agenda 2025;3;47.25;141.75;5
+V0012;2025-05-03;Diego Rocha;Sudeste;Caderno 10 matérias;1;32.5;32.5;5
+V0100;2025-05-03;Felipe Nunes;Sul;Marcador de Texto;1;7.9;7.9;5
+V0148;2025-05-03;Ana Souza;Sudeste;Agenda 2025;1;40.5;40.5;5
+V0238;2025-05-03;Diego Rocha;Sudeste;Caneta Gel;20;5.15;103.0;5
+V0084;2025-05-06;Bruno Lima;Sul;Mochila Escolar;1;116.91;116.91;5
+V0091;2025-05-06;Ana Souza;Sudeste;Mochila Escolar;1;116.91;116.91;5
+V0010;2025-05-07;Carla Mendes;Nordeste;Caderno 10 matérias;4;34.12;136.48;5
+V0070;2025-05-08;Ana Souza;Sudeste;Mochila Escolar;1;136.4;136.4;5
+V0076;2025-05-08;Elisa Prado;Nordeste;Caderno 10 matérias;3;32.5;97.5;5
+V0110;2025-05-08;Felipe Nunes;Sul;Estojo Duplo;2;28.9;57.8;5
+V0138;2025-05-08;Carla Mendes;Nordeste;Caderno 10 matérias;3;32.5;97.5;5
+V0124;2025-05-09;Ana Souza;Sudeste;Estojo Duplo;2;30.34;60.68;5
+V0040;2025-05-10;Ana Souza;Sudeste;Mochila Escolar;4;136.4;545.6;5
+V0059;2025-05-10;Diego Rocha;Nordeste;Estojo Duplo;5;28.9;144.5;5
+V0074;2025-05-10;Felipe Nunes;Sul;Caderno 10 matérias;4;32.5;130.0;5
+V0019;2025-05-13;Felipe Nunes;Sul;Caneta Gel;12;5.15;61.800000000000004;5
+V0054;2025-05-13;Carla Mendes;Nordeste;Calculadora Científica;1;89.9;89.9;5
+V0167;2025-05-13;Bruno Lima;Sul;Caneta Gel;2;4.41;8.82;5
+V0027;2025-05-14;Bruno Lima;Sul;Mochila Escolar;2;129.9;259.8;5
+V0029;2025-05-14;Carla Mendes;Nordeste;Caneta Gel;1;4.9;4.9;5
+V0145;2025-05-15;Ana Souza;Sudeste;Caderno 10 matérias;1;29.25;29.25;5
+V0213;2025-05-15;Bruno Lima;Sul;Marcador de Texto;2;7.9;15.8;5
+V0132;2025-05-16;Ana Souza;Sudeste;Caderno 10 matérias;3;32.5;97.5;5
+V0101;2025-05-17;Elisa Prado;Nordeste;Marcador de Texto;2;7.9;15.8;5
+V0226;2025-05-17;Ana Souza;Sudeste;Marcador de Texto;1;8.29;8.29;5
+V0129;2025-05-19;Elisa Prado;Nordeste;Caderno 10 matérias;2;32.5;65.0;5
+V0176;2025-05-19;Ana Souza;Sudeste;Pasta Arquivo;12;12.5;150.0;5
+V0197;2025-05-21;Carla Mendes;Nordeste;Pasta Arquivo;2;11.25;22.5;5
+V0237;2025-05-21;Carla Mendes;Nordeste;Pasta Arquivo;3;12.5;37.5;5
+V0006;2025-05-22;Diego Rocha;Sudeste;Caneta Gel;2;4.41;8.82;5
+V0090;2025-05-22;Ana Souza;Sudeste;Caderno 10 matérias;1;29.25;29.25;5
+V0094;2025-05-22;Ana Souza;Sudeste;Calculadora Científica;3;80.91;242.73;5
+V0003;2025-05-23;Carla Mendes;Nordeste;Caderno 10 matérias;1;34.12;34.12;5
+V0060;2025-05-23;Felipe Nunes;Sul;Marcador de Texto;2;7.11;14.22;5
+V0042;2025-05-24;Ana Souza;Sudeste;Marcador de Texto;1;8.29;8.29;5
+V0212;2025-05-29;Carla Mendes;Nordeste;Agenda 2025;3;47.25;141.75;5
+V0200;2025-05-30;Ana Souza;Sudeste;Calculadora Científica;3;89.9;269.70000000000005;5
+V0134;2025-05-31;Ana Souza;Sudeste;Caderno 10 matérias;2;34.12;68.24;5
+V0105;2025-06-04;Ana Souza;Sudeste;Estojo Duplo;12;28.9;346.79999999999995;6
+V0030;2025-06-05;Felipe Nunes;Sul;Marcador de Texto;5;7.9;39.5;6
+V0083;2025-06-05;Elisa Prado;Nordeste;Estojo Duplo;1;28.9;28.9;6
+V0009;2025-06-06;Felipe Nunes;Sul;Caderno 10 matérias;4;29.25;117.0;6
+V0044;2025-06-06;Carla Mendes;Nordeste;Estojo Duplo;12;30.34;364.08;6
+V0014;2025-06-07;Ana Souza;Sudeste;Caneta Gel;2;4.9;9.8;6
+V0174;2025-06-07;Carla Mendes;Nordeste;Agenda 2025;1;40.5;40.5;6
+V0190;2025-06-09;Elisa Prado;Sudeste;Pasta Arquivo;1;11.25;11.25;6
+V0078;2025-06-10;Carla Mendes;Nordeste;Caneta Gel;12;4.9;58.800000000000004;6
+V0184;2025-06-10;Felipe Nunes;Sul;Calculadora Científica;1;89.9;89.9;6
+V0208;2025-06-11;Diego Rocha;Sudeste;Pasta Arquivo;2;11.25;22.5;6
+V0239;2025-06-11;Diego Rocha;Sudeste;Caderno 10 matérias;1;32.5;32.5;6
+V0088;2025-06-13;Felipe Nunes;Sul;Agenda 2025;2;40.5;81.0;6
+V0122;2025-06-13;Felipe Nunes;Sul;Caderno 10 matérias;1;32.5;32.5;6
+V0185;2025-06-13;Ana Souza;Sudeste;Caderno 10 matérias;1;32.5;32.5;6
+V0217;2025-06-13;Ana Souza;Sudeste;Agenda 2025;1;45.0;45.0;6
+V0204;2025-06-14;Felipe Nunes;Sudeste;Estojo Duplo;2;26.01;52.02;6
+V0099;2025-06-16;Carla Mendes;Nordeste;Estojo Duplo;1;28.9;28.9;6
+V0175;2025-06-16;Diego Rocha;Sudeste;Mochila Escolar;4;129.9;519.6;6
+V0107;2025-06-17;Bruno Lima;Sul;Caneta Gel;2;4.41;8.82;6
+V0199;2025-06-20;Carla Mendes;Nordeste;Calculadora Científica;1;80.91;80.91;6
+V0135;2025-06-21;Felipe Nunes;Sudeste;Caderno 10 matérias;4;34.12;136.48;6
+V0171;2025-06-21;Elisa Prado;Nordeste;Pasta Arquivo;3;12.5;37.5;6
+V0229;2025-06-21;Bruno Lima;Sul;Marcador de Texto;5;7.11;35.550000000000004;6
+V0210;2025-06-23;Diego Rocha;Sudeste;Mochila Escolar;2;129.9;259.8;6
+V0073;2025-06-25;Bruno Lima;Sul;Estojo Duplo;1;26.01;26.01;6
+V0102;2025-06-25;Ana Souza;Nordeste;Marcador de Texto;1;8.29;8.29;6
+V0098;2025-06-26;Carla Mendes;Nordeste;Agenda 2025;1;45.0;45.0;6
+V0179;2025-06-26;Elisa Prado;Nordeste;Estojo Duplo;3;28.9;86.69999999999999;6
+V0198;2025-06-27;Elisa Prado;Nordeste;Caneta Gel;5;5.15;25.75;6
+V0011;2025-06-28;Bruno Lima;Sul;Marcador de Texto;12;7.9;94.80000000000001;6
+V0178;2025-06-28;Felipe Nunes;Sul;Estojo Duplo;1;28.9;28.9;6
+V0205;2025-06-28;Ana Souza;Sudeste;Estojo Duplo;12;28.9;346.79999999999995;6

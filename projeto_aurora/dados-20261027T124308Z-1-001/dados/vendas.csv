@@ -1,0 +1,241 @@
+id_venda;data;vendedor;regiao;produto;quantidade;preco_unitario
+V0032;02/01/2025;Carla Mendes;Nordeste;Calculadora Científica;1;R$ 89,90
+V0166;02/01/2025;Elisa Prado;Nordeste;Agenda 2025;1;R$ 45,00
+V0192;02/01/2025;Carla Mendes  ;Sul;Estojo Duplo;1;R$ 28,90
+V0018;03/01/2025;Ana Souza  ;Sudeste;Calculadora Científica;4;R$ 94,40
+V0142;03/01/2025;Carla Mendes;Nordeste;Mochila Escolar;3;R$ 129,90
+V0182;03/01/2025;Elisa Prado;Nordeste;Pasta Arquivo;2;R$ 13,12
+V0137;04/01/2025;Elisa Prado;Nordeste;Pasta Arquivo;5;R$ 12,50
+V0051;06/01/2025;  bruno lima;Sul;Estojo Duplo;20;R$ 28,90
+V0152;07/01/2025;Ana Souza;Sudeste;Marcador de Texto;12;R$ 7,90
+V0168;07/01/2025;Ana Souza;Sudeste;Calculadora Científica;2;R$ 89,90
+V0119;09/01/2025;Diego Rocha  ;Sudeste;Agenda 2025;3;R$ 45,00
+V0187;10/01/2025;  ana souza;Sul;Caderno 10 matérias;2;R$ 29,25
+V0232;10/01/2025;  ana souza;Sudeste;Pasta Arquivo;2;R$ 12,50
+V0121;13/01/2025;  bruno lima;Sul;Calculadora Científica;2;R$ 89,90
+V0173;13/01/2025;ANA SOUZA ;Nordeste;Caneta Gel;8;R$ 4,90
+V0004;14/01/2025;FELIPE NUNES ;Sul;Caneta Gel;20;R$ 4,90
+V0165;14/01/2025;Bruno Lima;Sul;Estojo Duplo;3;R$ 30,34
+V0189;14/01/2025;Elisa Prado;Nordeste;Calculadora Científica;2;R$ 94,40
+V0191;14/01/2025;Carla Mendes;Nordeste;Agenda 2025;1;R$ 47,25
+V0002;16/01/2025;Felipe Nunes;Nordeste;Agenda 2025;1;R$ 45,00
+V0112;16/01/2025;FELIPE NUNES ;Sul;Mochila Escolar;3;R$ 129,90
+V0120;17/01/2025;Bruno Lima  ;Sul;Caderno 10 matérias;4;R$ 32,50
+V0055;20/01/2025;  bruno lima;Sul;Caneta Gel;1;R$ 4,90
+V0063;20/01/2025;  diego rocha;Sudeste;Estojo Duplo;8;R$ 28,90
+V0075;21/01/2025;Elisa Prado;Nordeste;Agenda 2025;1;R$ 45,00
+V0081;21/01/2025;ELISA PRADO ;Nordeste;Marcador de Texto;3;R$ 7,11
+V0087;21/01/2025;BRUNO LIMA ;Sul;Pasta Arquivo;3;R$ 12,50
+V0230;21/01/2025;Ana Souza;Sudeste;Calculadora Científica;1;R$ 89,90
+V0108;22/01/2025;Bruno Lima;Sul;Pasta Arquivo;5;R$ 12,50
+V0116;22/01/2025;Bruno Lima;Sul;Calculadora Científica;3;R$ 89,90
+V0195;22/01/2025;  carla mendes;Nordeste;Caderno 10 matérias;2;R$ 32,50
+V0017;23/01/2025;Ana Souza;Sudeste;Agenda 2025;abc;R$ 45,00
+V0067;23/01/2025;Carla Mendes;Nordeste;Agenda 2025;1;R$ 47,25
+V0069;23/01/2025;Carla Mendes;Nordeste;Mochila Escolar;4;R$ 116,91
+V0155;23/01/2025;  felipe nunes;Sul;Calculadora Científica;4;R$ 89,90
+V0221;23/01/2025;Diego Rocha;Sul;Calculadora Científica;1;R$ 89,90
+V0144;24/01/2025;  carla mendes;Nordeste;Calculadora Científica;4;R$ 89,90
+V0196;24/01/2025;Carla Mendes  ;Nordeste;Caneta Gel;5;R$ 4,90
+V0095;25/01/2025;Ana Souza  ;Sudeste;Caderno 10 matérias;2;R$ 32,50
+V0043;27/01/2025;Carla Mendes  ;Nordeste;Caneta Gel;1;R$ 4,41
+V0079;27/01/2025;DIEGO ROCHA ;Sudeste;Marcador de Texto;3;R$ 8,29
+V0020;28/01/2025;  carla mendes;Nordeste;Pasta Arquivo;1;R$ 12,50
+V0037;28/01/2025;Carla Mendes;Nordeste;Mochila Escolar;3;R$ 129,90
+V0163;28/01/2025;Bruno Lima  ;Sul;Pasta Arquivo;5;R$ 12,50
+V0211;29/01/2025;Ana Souza;Sudeste;Agenda 2025;1;R$ 45,00
+V0104;30/01/2025;ANA SOUZA ;Sudeste;Estojo Duplo;20;R$ 30,34
+V0114;30/01/2025;FELIPE NUNES ;Sul;Mochila Escolar;2;R$ 129,90
+V0157;30/01/2025;Ana Souza;Sudeste;Marcador de Texto;3;R$ 7,90
+V0162;31/01/2025;Elisa Prado;Nordeste;Caneta Gel;5;R$ 4,41
+V0005;01/02/2025;Carla Mendes;Nordeste;Mochila Escolar;1;R$ 136,40
+V0080;01/02/2025;Felipe Nunes;Sudeste;Agenda 2025;2;R$ 45,00
+V0086;01/02/2025;FELIPE NUNES ;Sudeste;Agenda 2025;1;R$ 45,00
+V0236;03/02/2025;Carla Mendes;Nordeste;Caderno 10 matérias;1;R$ 29,25
+V0039;04/02/2025;Ana Souza;Sudeste;Calculadora Científica;3;R$ 94,40
+V0170;05/02/2025;  ana souza;Sudeste;Agenda 2025;1;R$ 40,50
+V0016;06/02/2025;Elisa Prado;Nordeste;Estojo Duplo;8;R$ 28,90
+V0071;06/02/2025;  felipe nunes;Sul;Caneta Gel;2;R$ 4,90
+V0227;06/02/2025;Carla Mendes;Nordeste;Caneta Gel;12;R$ 4,41
+V0068;07/02/2025;CARLA MENDES ;Nordeste;Caneta Gel;8;R$ 4,90
+V0085;07/02/2025;Carla Mendes;Sudeste;Pasta Arquivo;5;R$ 12,50
+V0113;07/02/2025;Carla Mendes;Nordeste;Caneta Gel;2;R$ 4,41
+V0136;07/02/2025;Ana Souza;Sudeste;Estojo Duplo;1;R$ 30,34
+V0164;08/02/2025;BRUNO LIMA ;Sul;Caderno 10 matérias;3;R$ 32,50
+V0047;10/02/2025;Felipe Nunes;Sul;Calculadora Científica;1;R$ 89,90
+V0139;10/02/2025;Diego Rocha;Sudeste;Caderno 10 matérias;1;R$ 29,25
+V0021;12/02/2025;Ana Souza;Sudeste;Caneta Gel;1;R$ 4,90
+V0161;12/02/2025;DIEGO ROCHA ;Sudeste;Estojo Duplo;5;R$ 26,01
+V0225;13/02/2025;DIEGO ROCHA ;Sudeste;Caderno 10 matérias;4;R$ 32,50
+V0180;14/02/2025;Bruno Lima;Sul;Agenda 2025;1;R$ 45,00
+V0240;15/02/2025;Ana Souza;Sudeste;Mochila Escolar;1;R$ 116,91
+V0041;17/02/2025;Diego Rocha;Sudeste;Mochila Escolar;1;R$ 129,90
+V0053;17/02/2025;Bruno Lima;Sul;Mochila Escolar;3;R$ 129,90
+V0193;18/02/2025;Felipe Nunes;Sul;Calculadora Científica;4;R$ 89,90
+V0224;18/02/2025;Elisa Prado;Nordeste;Calculadora Científica;1;R$ 89,90
+V0062;21/02/2025;Elisa Prado;Nordeste;Mochila Escolar;3;R$ 129,90
+V0077;21/02/2025;Ana Souza;Sudeste;Mochila Escolar;2;R$ 129,90
+V0146;21/02/2025;  bruno lima;Sul;Caneta Gel;12;R$ 4,90
+V0033;22/02/2025;  carla mendes;Nordeste;Mochila Escolar;3;R$ 129,90
+V0096;22/02/2025;Elisa Prado;Nordeste;Pasta Arquivo;8;R$ 11,25
+V0186;22/02/2025;ELISA PRADO ;Nordeste;Caderno 10 matérias;3;R$ 32,50
+V0082;24/02/2025;ANA SOUZA ;Sudeste;Caderno 10 matérias;1;R$ 34,12
+V0160;24/02/2025;  diego rocha;Sudeste;Agenda 2025;2;R$ 45,00
+V0223;24/02/2025;  felipe nunes;Sul;Estojo Duplo;3;R$ 30,34
+V0194;25/02/2025;  felipe nunes;Sul;Agenda 2025;3;R$ 45,00
+V0048;27/02/2025;ELISA PRADO ;Nordeste;Caderno 10 matérias;3;R$ 29,25
+V0158;27/02/2025;ANA SOUZA ;Sudeste;Calculadora Científica;4;R$ 89,90
+V0049;28/02/2025;Ana Souza  ;Sudeste;Pasta Arquivo;20;R$ 11,25
+V0177;28/02/2025;  felipe nunes;Sul;Estojo Duplo;2;R$ 28,90
+V0052;01/03/2025;FELIPE NUNES ;Sul;Caderno 10 matérias;1;R$ 32,50
+V0207;01/03/2025;Diego Rocha;Sudeste;Agenda 2025;1;R$ 45,00
+V0219;01/03/2025;Bruno Lima;Sul;Pasta Arquivo;3;R$ 11,25
+V0008;05/03/2025;Ana Souza;Sudeste;Estojo Duplo;20;R$ 26,01
+V0066;05/03/2025;ANA SOUZA ;Sudeste;Estojo Duplo;2;R$ 28,90
+V0106;05/03/2025;  carla mendes;Nordeste;Agenda 2025;4;R$ 45,00
+V0045;06/03/2025;Diego Rocha;Sudeste;Estojo Duplo;20;R$ 28,90
+V0228;06/03/2025;Carla Mendes;Nordeste;Caneta Gel;2;R$ 4,90
+V0038;07/03/2025;ANA SOUZA ;Sudeste;Agenda 2025;4;R$ 45,00
+V0209;07/03/2025;Elisa Prado;Nordeste;Marcador de Texto;12;R$ 7,90
+V0092;08/03/2025;Elisa Prado  ;Nordeste;Estojo Duplo;8;R$ 28,90
+V0130;08/03/2025;ELISA PRADO ;Nordeste;Agenda 2025;3;R$ 45,00
+V0025;10/03/2025;CARLA MENDES ;Nordeste;Mochila Escolar;4;R$ 129,90
+V0056;10/03/2025;Elisa Prado;Nordeste;Marcador de Texto;1;R$ 7,90
+V0058;10/03/2025;Ana Souza;Sudeste;Agenda 2025;abc;R$ 45,00
+V0057;11/03/2025;Diego Rocha;Sudeste;Caneta Gel;20;R$ 4,90
+V0065;11/03/2025;Carla Mendes;Nordeste;Estojo Duplo;5;R$ 28,90
+V0097;12/03/2025;Bruno Lima;Sul;Caneta Gel;12;R$ 4,90
+V0159;13/03/2025;Felipe Nunes;Sul;Marcador de Texto;2;R$ 7,90
+V0220;14/03/2025;Bruno Lima;Sul;Estojo Duplo;5;R$ 26,01
+V0131;15/03/2025;Elisa Prado;Nordeste;Agenda 2025;2;R$ 45,00
+V0140;15/03/2025;Diego Rocha;Sudeste;Pasta Arquivo;1;R$ 12,50
+V0234;17/03/2025;Bruno Lima;Sul;Marcador de Texto;8;R$ 7,90
+V0111;18/03/2025;Ana Souza;Sudeste;Marcador de Texto;2;R$ 7,90
+V0188;18/03/2025;Bruno Lima  ;Sul;Pasta Arquivo;3;R$ 12,50
+V0151;21/03/2025;Carla Mendes;Nordeste;Pasta Arquivo;8;R$ 12,50
+V0050;24/03/2025;Ana Souza;Sudeste;Calculadora Científica;1;R$ 89,90
+V0001;25/03/2025;Felipe Nunes;Sul;Pasta Arquivo;1;R$ 12,50
+V0202;26/03/2025;Felipe Nunes;Sul;Estojo Duplo;1;R$ 28,90
+V0222;26/03/2025;Elisa Prado;Nordeste;Mochila Escolar;4;R$ 129,90
+V0028;27/03/2025;Diego Rocha;Sudeste;Agenda 2025;1;R$ 40,50
+V0231;27/03/2025;Elisa Prado;Nordeste;Caderno 10 matérias;4;R$ 29,25
+V0023;31/03/2025;Diego Rocha;Sudeste;Marcador de Texto;1;R$ 7,90
+V0235;31/03/2025;FELIPE NUNES ;Sul;Marcador de Texto;1;R$ 7,90
+V0036;01/04/2025;Ana Souza;Sudeste;Mochila Escolar;1;R$ 129,90
+V0172;01/04/2025;DIEGO ROCHA ;Sudeste;Marcador de Texto;20;R$ 7,11
+V0149;03/04/2025;Ana Souza;Sudeste;Agenda 2025;1;R$ 45,00
+V0214;03/04/2025;Diego Rocha;Sudeste;Estojo Duplo;3;R$ 26,01
+V0026;04/04/2025;Ana Souza;Sudeste;Caneta Gel;20;R$ 4,90
+V0072;04/04/2025;  felipe nunes;Sul;Pasta Arquivo;12;R$ 13,12
+V0022;05/04/2025;Diego Rocha  ;Sudeste;Caderno 10 matérias;1;R$ 34,12
+V0143;05/04/2025;  carla mendes;Nordeste;Mochila Escolar;1;R$ 129,90
+V0154;05/04/2025;Ana Souza;Nordeste;Marcador de Texto;20;R$ 8,29
+V0089;07/04/2025;Elisa Prado;Nordeste;Pasta Arquivo;1;R$ 11,25
+V0118;07/04/2025;Carla Mendes  ;Nordeste;Marcador de Texto;2;R$ 7,90
+V0156;08/04/2025;Diego Rocha;Sudeste;Mochila Escolar;1;R$ 129,90
+V0064;09/04/2025;  elisa prado;Nordeste;Estojo Duplo;2;R$ 28,90
+V0117;09/04/2025;  bruno lima;Sul;Estojo Duplo;8;R$ 28,90
+V0203;10/04/2025;Ana Souza;Sudeste;Mochila Escolar;2;R$ 129,90
+V0147;11/04/2025;Ana Souza;Sudeste;Mochila Escolar;1;R$ 136,40
+V0181;11/04/2025;Bruno Lima;Sul;Agenda 2025;3;R$ 47,25
+V0015;12/04/2025;Felipe Nunes;Sul;Marcador de Texto;1;R$ 7,90
+V0046;12/04/2025;  carla mendes;Nordeste;Caderno 10 matérias;1;R$ 29,25
+V0093;12/04/2025;Ana Souza;Sudeste;Mochila Escolar;1;R$ 129,90
+V0183;12/04/2025;  diego rocha;Nordeste;Caderno 10 matérias;4;R$ 32,50
+V0216;14/04/2025;FELIPE NUNES ;Sul;Agenda 2025;3;R$ 40,50
+V0206;15/04/2025;Ana Souza;Sudeste;Agenda 2025;3;R$ 47,25
+V0126;16/04/2025;Ana Souza;Sudeste;Caneta Gel;12;R$ 5,15
+V0169;17/04/2025;Carla Mendes;Nordeste;Mochila Escolar;1;R$ 129,90
+V0218;17/04/2025;Carla Mendes;Nordeste;Estojo Duplo;20;R$ 28,90
+V0141;18/04/2025;Carla Mendes;Nordeste;Calculadora Científica;1;R$ 80,91
+V0109;19/04/2025;Bruno Lima;Sul;Pasta Arquivo;2;R$ 12,50
+V0215;19/04/2025;  diego rocha;Sudeste;Calculadora Científica;4;R$ 89,90
+V0127;21/04/2025;  elisa prado;Sudeste;Caderno 10 matérias;2;R$ 34,12
+V0061;22/04/2025;Diego Rocha;Sudeste;Pasta Arquivo;20;R$ 12,50
+V0013;26/04/2025;Bruno Lima;Sul;Pasta Arquivo;5;R$ 12,50
+V0128;26/04/2025;Ana Souza;Sudeste;Mochila Escolar;3;R$ 116,91
+V0133;26/04/2025;  felipe nunes;Sul;Caneta Gel;3;R$ 4,90
+V0125;29/04/2025;Bruno Lima;Sul;Caderno 10 matérias;4;R$ 32,50
+V0153;29/04/2025;  elisa prado;Nordeste;Marcador de Texto;8;R$ 7,90
+V0034;30/04/2025;Carla Mendes;Sul;Caderno 10 matérias;1;R$ 32,50
+V0007;01/05/2025;CARLA MENDES ;Nordeste;Marcador de Texto;5;R$ 7,90
+V0024;01/05/2025;  carla mendes;Nordeste;Estojo Duplo;1;R$ 28,90
+V0035;01/05/2025;Elisa Prado;Nordeste;Mochila Escolar;4;R$ 136,40
+V0115;01/05/2025;Ana Souza;Sudeste;Pasta Arquivo;5;R$ 12,50
+V0123;01/05/2025;Felipe Nunes;Sul;Pasta Arquivo;3;R$ 11,25
+V0031;02/05/2025;Ana Souza;Sudeste;Agenda 2025;3;R$ 47,25
+V0012;03/05/2025;Diego Rocha;Sudeste;Caderno 10 matérias;1;R$ 32,50
+V0100;03/05/2025;Felipe Nunes;Sul;Marcador de Texto;1;R$ 7,90
+V0148;03/05/2025;Ana Souza;Sudeste;Agenda 2025;1;R$ 40,50
+V0233;03/05/2025;Elisa Prado  ;Nordeste;Agenda 2025;  ;R$ 40,50
+V0238;03/05/2025;Diego Rocha;Sudeste;Caneta Gel;20;R$ 5,15
+V0084;06/05/2025;Bruno Lima;Sul;Mochila Escolar;1;R$ 116,91
+V0091;06/05/2025;Ana Souza;Sudeste;Mochila Escolar;1;R$ 116,91
+V0010;07/05/2025;Carla Mendes;Nordeste;Caderno 10 matérias;4;R$ 34,12
+V0070;08/05/2025;Ana Souza;Sudeste;Mochila Escolar;1;R$ 136,40
+V0076;08/05/2025;Elisa Prado;Nordeste;Caderno 10 matérias;3;R$ 32,50
+V0110;08/05/2025;Felipe Nunes;Sul;Estojo Duplo;2;R$ 28,90
+V0138;08/05/2025;Carla Mendes;Nordeste;Caderno 10 matérias;3;R$ 32,50
+V0124;09/05/2025;ANA SOUZA ;Sudeste;Estojo Duplo;2;R$ 30,34
+V0040;10/05/2025;  ana souza;Sudeste;Mochila Escolar;4;R$ 136,40
+V0059;10/05/2025;Diego Rocha;Nordeste;Estojo Duplo;5;R$ 28,90
+V0074;10/05/2025;Felipe Nunes;Sul;Caderno 10 matérias;4;R$ 32,50
+V0019;13/05/2025;Felipe Nunes;Sul;Caneta Gel;12;R$ 5,15
+V0054;13/05/2025;  carla mendes;Nordeste;Calculadora Científica;1;R$ 89,90
+V0167;13/05/2025;BRUNO LIMA ;Sul;Caneta Gel;2;R$ 4,41
+V0027;14/05/2025;Bruno Lima;Sul;Mochila Escolar;2;R$ 129,90
+V0029;14/05/2025;Carla Mendes;Nordeste;Caneta Gel;1;R$ 4,90
+V0145;15/05/2025;Ana Souza;Sudeste;Caderno 10 matérias;1;R$ 29,25
+V0213;15/05/2025;Bruno Lima;Sul;Marcador de Texto;2;R$ 7,90
+V0132;16/05/2025;  ana souza;Sudeste;Caderno 10 matérias;3;R$ 32,50
+V0101;17/05/2025;ELISA PRADO ;Nordeste;Marcador de Texto;2;R$ 7,90
+V0226;17/05/2025;  ana souza;Sudeste;Marcador de Texto;1;R$ 8,29
+V0129;19/05/2025;ELISA PRADO ;Nordeste;Caderno 10 matérias;2;R$ 32,50
+V0176;19/05/2025;Ana Souza;Sudeste;Pasta Arquivo;12;R$ 12,50
+V0197;21/05/2025;  carla mendes;Nordeste;Pasta Arquivo;2;R$ 11,25
+V0237;21/05/2025;  carla mendes;Nordeste;Pasta Arquivo;3;R$ 12,50
+V0006;22/05/2025;Diego Rocha;Sudeste;Caneta Gel;2;R$ 4,41
+V0090;22/05/2025;Ana Souza;Sudeste;Caderno 10 matérias;1;R$ 29,25
+V0094;22/05/2025;  ana souza;Sudeste;Calculadora Científica;3;R$ 80,91
+V0003;23/05/2025;Carla Mendes;Nordeste;Caderno 10 matérias;1;R$ 34,12
+V0060;23/05/2025;  felipe nunes;Sul;Marcador de Texto;2;R$ 7,11
+V0042;24/05/2025;  ana souza;Sudeste;Marcador de Texto;1;R$ 8,29
+V0103;27/05/2025;Felipe Nunes;Sul;Estojo Duplo;-;R$ 28,90
+V0212;29/05/2025;  carla mendes;Nordeste;Agenda 2025;3;R$ 47,25
+V0200;30/05/2025;Ana Souza;Sudeste;Calculadora Científica;3;R$ 89,90
+V0134;31/05/2025;Ana Souza;Sudeste;Caderno 10 matérias;2;R$ 34,12
+V0105;04/06/2025;Ana Souza;Sudeste;Estojo Duplo;12;R$ 28,90
+V0030;05/06/2025;  felipe nunes;Sul;Marcador de Texto;5;R$ 7,90
+V0083;05/06/2025;ELISA PRADO ;Nordeste;Estojo Duplo;1;R$ 28,90
+V0009;06/06/2025;FELIPE NUNES ;Sul;Caderno 10 matérias;4;R$ 29,25
+V0044;06/06/2025;Carla Mendes;Nordeste;Estojo Duplo;12;R$ 30,34
+V0014;07/06/2025;  ana souza;Sudeste;Caneta Gel;2;R$ 4,90
+V0174;07/06/2025;CARLA MENDES ;Nordeste;Agenda 2025;1;R$ 40,50
+V0190;09/06/2025;Elisa Prado;Sudeste;Pasta Arquivo;1;R$ 11,25
+V0201;09/06/2025;Ana Souza;Sudeste;Mochila Escolar;  ;R$ 129,90
+V0078;10/06/2025;Carla Mendes;Nordeste;Caneta Gel;12;R$ 4,90
+V0184;10/06/2025;  felipe nunes;Sul;Calculadora Científica;1;R$ 89,90
+V0208;11/06/2025;Diego Rocha;Sudeste;Pasta Arquivo;2;R$ 11,25
+V0239;11/06/2025;Diego Rocha;Sudeste;Caderno 10 matérias;1;R$ 32,50
+V0088;13/06/2025;Felipe Nunes;Sul;Agenda 2025;2;R$ 40,50
+V0122;13/06/2025;  felipe nunes;Sul;Caderno 10 matérias;1;R$ 32,50
+V0185;13/06/2025;Ana Souza;Sudeste;Caderno 10 matérias;1;R$ 32,50
+V0217;13/06/2025;Ana Souza;Sudeste;Agenda 2025;1;R$ 45,00
+V0204;14/06/2025;Felipe Nunes;Sudeste;Estojo Duplo;2;R$ 26,01
+V0099;16/06/2025;  carla mendes;Nordeste;Estojo Duplo;1;R$ 28,90
+V0175;16/06/2025;  diego rocha;Sudeste;Mochila Escolar;4;R$ 129,90
+V0107;17/06/2025;Bruno Lima;Sul;Caneta Gel;2;R$ 4,41
+V0199;20/06/2025;Carla Mendes;Nordeste;Calculadora Científica;1;R$ 80,91
+V0135;21/06/2025;Felipe Nunes  ;Sudeste;Caderno 10 matérias;4;R$ 34,12
+V0171;21/06/2025;  elisa prado;Nordeste;Pasta Arquivo;3;R$ 12,50
+V0229;21/06/2025;Bruno Lima;Sul;Marcador de Texto;5;R$ 7,11
+V0150;23/06/2025;Ana Souza;Sudeste;Calculadora Científica;  ;R$ 80,91
+V0210;23/06/2025;Diego Rocha;Sudeste;Mochila Escolar;2;R$ 129,90
+V0073;25/06/2025;Bruno Lima;Sul;Estojo Duplo;1;R$ 26,01
+V0102;25/06/2025;Ana Souza;Nordeste;Marcador de Texto;1;R$ 8,29
+V0098;26/06/2025;Carla Mendes;Nordeste;Agenda 2025;1;R$ 45,00
+V0179;26/06/2025;  elisa prado;Nordeste;Estojo Duplo;3;R$ 28,90
+V0198;27/06/2025;Elisa Prado  ;Nordeste;Caneta Gel;5;R$ 5,15
+V0011;28/06/2025;Bruno Lima;Sul;Marcador de Texto;12;R$ 7,90
+V0178;28/06/2025;Felipe Nunes;Sul;Estojo Duplo;1;R$ 28,90
+V0205;28/06/2025;  ana souza;Sudeste;Estojo Duplo;12;R$ 28,90
